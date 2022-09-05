@@ -7,8 +7,8 @@
 - 🌐 Aluna do Curso em Vídeo, professor Gustavo Guanabara.
 
 ## Skills ⚙️
-<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="80"></a>
-<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="80"></a>
+<a href="https://html.spec.whatwg.org/dev/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="80"></a>
+<a href="https://css-tricks.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="80"></a>
 
 ## Redes Socias 🌎 
 
