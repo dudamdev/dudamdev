@@ -13,4 +13,4 @@
 ## Redes Socias 🌎 
 
 <a href="https://www.instagram.com/dudaarianne/" target="_blank"><img src="https://icons.iconarchive.com/icons/graphicloads/papercut-social/96/Instagram-icon.png" width="80"></a>
-<a href="https://www.instagram.com/dudaarianne/" target="_blank"><img src="https://icons.iconarchive.com/icons/graphicloads/papercut-social/96/Linkedin-icon.png" width="80"></a>
+<a href="https://www.linkedin.com/in/eduarda-matos/" target="_blank"><img src="https://icons.iconarchive.com/icons/graphicloads/papercut-social/96/Linkedin-icon.png" width="80"></a>
