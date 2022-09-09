@@ -4,7 +4,7 @@
 
 - 📘 Cursando Desenvolvimento de Software Multiplataforma na Fatec Franca.
 - 👩‍💻 Atualmente focada em Desenvolvimento Web com HTML5 e CSS3.
-- 🌐 Aluna do Curso em Vídeo, professor Gustavo Guanabara.
+- 🌐 Aluna do CursoemVideo, professor Gustavo Guanabara.
 
 ## Skills ⚙️
 <a href="https://html.spec.whatwg.org/dev/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="80"></a>
