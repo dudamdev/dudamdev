@@ -2,7 +2,7 @@
   
 ### Eu sou a Duda, tenho 22 anos. 
 
-- 📘 Cursando Desenvolvimento de Software Multiplataforma na Fatec Franca.
+- 📘 Curso Desenvolvimento de Software Multiplataforma na Fatec Franca.
 - 👩‍💻 Atualmente focada em Desenvolvimento Web com HTML5 e CSS3.
 - 🌐 Aluna do CursoemVideo, professor Gustavo Guanabara.
 
