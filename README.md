@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi! I'm Duda👋
   
 ### Eu sou a Duda, tenho 22 anos. 
 
