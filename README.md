@@ -1,12 +1,12 @@
 # Hi! I'm Duda👋
   
-### Eu sou a Duda, tenho 22 anos. 
+### Eu sou a Duda, tenho 23 anos. 
 
 - 📘 Curso Desenvolvimento de Software Multiplataforma na Fatec Franca.
-- 👩‍💻 Atualmente focada em Desenvolvimento Web com HTML5 e CSS3.
-- 🌐 Aluna do CursoemVideo, professor Gustavo Guanabara.
+- 👩‍💻 Atualmente focada em Desenvolvimento Web Frontend.
 
 ## Skills ⚙️
+
 <a href="https://html.spec.whatwg.org/dev/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="80"></a>
 <a href="https://css-tricks.com/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="80"></a>
 <a href="https://www.figma.com/about/"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="80"></a>
