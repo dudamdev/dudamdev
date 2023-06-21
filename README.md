@@ -3,7 +3,7 @@
 ### Eu sou a Duda, tenho 23 anos. 
 
 - 📘 Curso Desenvolvimento de Software Multiplataforma na Fatec Franca.
-- 👩‍💻 Atualmente focada em Desenvolvimento Web Frontend.
+- 👩‍💻 Atualmente foco em Desenvolvimento Web Frontend e Web Design.
 
 ## Skills ⚙️
 
